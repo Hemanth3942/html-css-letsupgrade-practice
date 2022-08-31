@@ -1,0 +1,36 @@
+.box{
+    height: 400px;
+    width: 910px;
+    color: blueviolet;
+    background-color:aliceblue;
+    font-size: 50px;
+    font-family: Forte;
+    border: 1px solid black;
+
+}
+
+.button{
+    height: 50px;
+    width: 200px;
+    color: rgb(0, 0, 0);
+    background-color:gold;
+    margin: 0px;
+    padding: 0px;
+    border: 2px solid darkred;
+    font-size: 40px;
+    font-family: Lucida Calligraphy; 
+    box-sizing: border-box;
+    display: inline-block;
+    vertical-align: middle;
+    text-align:center;
+}
+
+.img{
+    height: 400px;
+    padding: 0px;
+    padding: 0px;
+    border: none;
+    border: none;   
+    display: inline-block;
+    vertical-align: middle;
+}
